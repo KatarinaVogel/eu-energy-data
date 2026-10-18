@@ -5,3 +5,5 @@
 - **ENTSO-E** : plateforme de transparence (production, charge, flux transfrontaliers).
 
 Ce dépôt ne contient aucune copie de ces données.
+
+Dernière révision : voir l'historique du dépôt.
